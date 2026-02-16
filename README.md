@@ -13,9 +13,9 @@ Building Secure Enterprise Applications 🚀 | SaaS & ERP Systems 🏢 | Cloud D
 
 ## 🚀 About Me
 
-💼 2 Years of Industry Experience  
+💼 3 Years of Industry Experience  
 ▪ 1 Year – MERN Stack Developer  
-▪ 1 Year – Technical Trainer  
+▪ 2 Year – Technical Trainer  
 
 🎓 B.Tech – Computer Science & Engineering (2020–2024)  
 🏢 Specialized in Enterprise Applications, ERP Systems & Business Automation  
