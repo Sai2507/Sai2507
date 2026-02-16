@@ -1,5 +1,5 @@
 <!-- ======================== HEADER SECTION ======================== -->
-💫 About Me:
+<h1>💫 About Me:</h1>
 <h1 align="center">Hi 👋, I'm Rajeev</h1>
 <h3 align="center">Full Stack Developer | MERN + LAMP Specialist | ERP Architect | Technical Trainer</h3>
 
