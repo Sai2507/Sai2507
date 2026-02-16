@@ -122,7 +122,7 @@ Hands-on Projects • Real Industry Standards • Job-Ready Skills • Practical
 ## 📈 Most Used Technologies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai2507&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-navy-three-90.vercel.app/api/top-langs/?username=Sai2507&layout=compact&theme=tokyonight" />
 </p>
 
 ---
