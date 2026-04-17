@@ -1,15 +1,13 @@
 <!-- ======================== HEADER SECTION ======================== -->
 <h1>💫 About Me:</h1>
 <h1 align="center">Hi 👋, I'm Rajeev</h1>
-<h3 align="center">Full Stack Developer | MERN + LAMP Specialist | ERP Architect | Technical Trainer</h3>
+<h3 align="center">Full Stack Developer | MERN + LAMP Specialist | React + Django | ERP Architect | Technical Trainer</h3>
 
 <p align="center">
-Building Secure Enterprise Applications 🚀 | SaaS & ERP Systems 🏢 | Cloud Deployments ☁️ | Payment Security 🔐
+Building Secure Enterprise Applications 🚀 | SaaS & ERP Systems 🏢 | Cloud Deployments ☁️ | Payment Security 🔐 | API-Driven Applications ⚙️
 </p>
 
 ---
-
-<!-- ======================== ABOUT SECTION ======================== -->
 
 ## 🚀 About Me
 
@@ -22,28 +20,27 @@ Building Secure Enterprise Applications 🚀 | SaaS & ERP Systems 🏢 | Cloud D
 
 I design and develop **secure, scalable, production-grade systems** with strong focus on architecture, authentication, payment security, and cloud deployment.
 
+Additionally, I build **API-driven applications using React and Django**, integrating machine learning models and real-time processing systems.
+
 🔍 Currently exploring:
-- Advanced System Design
-- SaaS Product Architecture
-- AI Integration in Enterprise Apps
-- Cloud-Native Application Scaling
+- Advanced System Design  
+- SaaS Product Architecture  
+- AI Integration in Enterprise Apps  
+- Cloud-Native Application Scaling  
+- React + Django Full Stack Architecture  
 
 ---
-
-<!-- ======================== TECH STACK ======================== -->
 
 ## 🛠️ Tech Stack
 
 ### 💻 Full Stack Development
-
 <p>
-MongoDB • Express.js • React.js • Node.js • PHP • MySQL • Apache
+MongoDB • Express.js • React.js • Node.js • Django • PHP • MySQL • Apache
 </p>
 
 ---
 
 ### 🔐 Security & Architecture
-
 <p>
 JWT Authentication • Role-Based Access Control (RBAC) • Secure REST APIs  
 SQL Injection & XSS Prevention • Secure Session Management  
@@ -52,8 +49,19 @@ PCI DSS Compliance • Token-based Authorization
 
 ---
 
-### 🏢 ERP & Enterprise Modules Built
+## 🚀 Featured Project
 
+### 🔍 Deepfake Detection System (Django + ML)
+• Built a Django-based system to detect deepfake videos and audio using deep learning models  
+• Implemented video upload, URL-based analysis, frame-wise processing, and audio extraction using FFmpeg  
+• Designed backend workflows to process large media inputs and generate prediction results  
+• Currently extending into API-driven architecture for React integration  
+
+👉 GitHub: https://github.com/Sai2507  
+
+---
+
+### 🏢 ERP & Enterprise Modules Built
 ✔ Employee Management System  
 ✔ Payroll & Salary Processing  
 ✔ Leave Management System  
@@ -64,7 +72,6 @@ PCI DSS Compliance • Token-based Authorization
 ---
 
 ### 💳 Payment Gateway Integration
-
 • Bank API Integrations  
 • Custom Payment Gateway Development  
 • Token-Based Secure Transactions  
@@ -75,45 +82,34 @@ PCI DSS Compliance • Token-based Authorization
 ---
 
 ### ☁️ DevOps & Cloud
-
 Git • GitHub • CI/CD Automation  
 AWS EC2 • AWS S3 • Route 53  
 Production Deployment & Server Configuration  
 
 ---
 
-<!-- ======================== TRAINER SECTION ======================== -->
-
 ## 👨‍🏫 Technical Trainer
 
 Delivering Industry-Oriented, Project-Based Learning in:
+- C Programming  
+- Python Programming  
+- Data Science & Machine Learning  
+- Applied Artificial Intelligence  
 
-- C Programming
-- Python Programming
-- Data Science & Machine Learning
-- Applied Artificial Intelligence
-
-🎯 My Teaching Philosophy:
-Hands-on Projects • Real Industry Standards • Job-Ready Skills • Practical Implementation
+🎯 Hands-on Projects • Real Industry Standards • Job-Ready Skills  
 
 ---
 
-<!-- ======================== LEADERSHIP ======================== -->
-
 ## 🏆 Leadership & Innovation
-
 - Research & Development Cell Member  
 - Smart India Hackathon (SIH) Participant  
 - Institution’s Innovation Council (IIC) – Student Coordinator  
 
 ---
 
-<!-- ======================== GITHUB STATS ======================== -->
-
 ## 📊 GitHub Analytics
 
 <p align="center">
- 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai2507&theme=tokyonight" />
 </p>
 
@@ -127,13 +123,9 @@ Hands-on Projects • Real Industry Standards • Job-Ready Skills • Practical
 
 ---
 
-<!-- ======================== CONTACT SECTION ======================== -->
-
 ## 🌐 Connect With Me
-
 📧 sairajeev2002@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/sai-rajeev-pedadi-jun
-
+💼 LinkedIn: https://www.linkedin.com/in/sai-rajeev-pedadi-jun  
 
 ---
 
@@ -145,6 +137,7 @@ I am passionate about combining:
 ✔ Cloud Infrastructure  
 ✔ Payment Security Standards  
 ✔ ERP System Architecture  
+✔ API-Driven Application Development  
 ✔ Technical Mentorship  
 
 to build systems that are secure, scalable, and impactful.
