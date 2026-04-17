@@ -49,7 +49,7 @@ PCI DSS Compliance • Token-based Authorization
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🔍 Deepfake Detection System (Django + ML)
 • Built a Django-based system to detect deepfake videos and audio using deep learning models  
