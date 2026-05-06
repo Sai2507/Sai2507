@@ -1,113 +1,196 @@
-<!-- ======================== HEADER SECTION ======================== -->
-<h1>💫 About Me:</h1>
+# 💫 About Me
+
 <h1 align="center">Hi 👋, I'm Rajeev</h1>
-<h3 align="center">Full Stack Developer | MERN + LAMP Specialist | React + Django | ERP Architect | Technical Trainer</h3>
+
+<h3 align="center">
+Full Stack Developer • React + Django Engineer • MERN & PHP Developer • Technical Trainer
+</h3>
 
 <p align="center">
-Building Secure Enterprise Applications 🚀 | SaaS & ERP Systems 🏢 | Cloud Deployments ☁️ | Payment Security 🔐 | API-Driven Applications ⚙️
+Building Secure Web Applications 🚀 • Enterprise Systems 🏢 • API-Driven Platforms ⚙️ • Cloud Deployments ☁️ • Payment Integrations 🔐
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 Professional Summary
 
-💼 3 Years of Industry Experience  
-▪ 1 Year – Full Stack Developer  
-▪ 2 Year – Technical Trainer  
+💼 **Full Stack Developer at Oceanapps Technologies Pvt Ltd**
+🎓 **B.Tech – Computer Science & Engineering (2020–2024)**
+📍 Andhra Pradesh, India
 
-🎓 B.Tech – Computer Science & Engineering (2020–2024)  
-🏢 Specialized in Enterprise Applications, ERP Systems & Business Automation  
+I specialize in building **scalable, production-ready web applications** using:
 
-I design and develop **secure, scalable, production-grade systems** with strong focus on architecture, authentication, payment security, and cloud deployment.
+* React.js
+* Django
+* Node.js
+* PHP
+* MongoDB & MySQL
 
-Additionally, I build **API-driven applications using React and Django**, integrating machine learning models and real-time processing systems.
+with strong focus on:
 
-🔍 Currently exploring:
-- Advanced System Design  
-- SaaS Product Architecture  
-- AI Integration in Enterprise Apps  
-- Cloud-Native Application Scaling  
-- React + Django Full Stack Architecture  
+✔ Secure Authentication
+✔ REST API Development
+✔ ERP & Business Automation
+✔ Payment Gateway Integration
+✔ Deployment & Performance Optimization
+
+I enjoy developing systems end-to-end — from UI/UX to backend architecture and deployment.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Full Stack Development
-<p>
-MongoDB • Express.js • React.js • Node.js • Django • PHP • MySQL • Apache
+## 💻 Full Stack Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,php,mongodb,mysql,js,html,css,python,bootstrap,git,github,aws,vscode" />
 </p>
 
----
+### Frontend
 
-### 🔐 Security & Architecture
-<p>
-JWT Authentication • Role-Based Access Control (RBAC) • Secure REST APIs  
-SQL Injection & XSS Prevention • Secure Session Management  
-PCI DSS Compliance • Token-based Authorization
-</p>
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Bootstrap
+* Vue.js (Basic)
 
----
+### Backend
 
-## 🚀 Featured Projects
+* Django
+* Node.js
+* Express.js
+* PHP
 
-### 🔍 Deepfake Detection System (Django + ML)
-• Built a Django-based system to detect deepfake videos and audio using deep learning models  
-• Implemented video upload, URL-based analysis, frame-wise processing, and audio extraction using FFmpeg  
-• Designed backend workflows to process large media inputs and generate prediction results  
-• Currently extending into API-driven architecture for React integration  
+### Databases
 
-👉 GitHub: https://github.com/Sai2507  
+* MongoDB
+* MySQL
 
----
+### Tools & Platforms
 
-### 🏢 ERP & Enterprise Modules Built
-✔ Employee Management System  
-✔ Payroll & Salary Processing  
-✔ Leave Management System  
-✔ Student Certificate Verification Platform  
-✔ Admin Panels & Business Dashboards  
-✔ Automation & Workflow Systems  
-
----
-
-### 💳 Payment Gateway Integration
-• Bank API Integrations  
-• Custom Payment Gateway Development  
-• Token-Based Secure Transactions  
-• Transaction Reconciliation Automation  
-• Visa / MasterCard / AMEX Standard Alignment  
-• PCI SSC Compliance Implementation  
+* Git & GitHub
+* Postman
+* VS Code
+* Chrome DevTools
+* Figma
+* AWS
 
 ---
 
-### ☁️ DevOps & Cloud
-Git • GitHub • CI/CD Automation  
-AWS EC2 • AWS S3 • Route 53  
-Production Deployment & Server Configuration  
+# 🔐 Security & Backend Engineering
+
+✔ JWT Authentication
+✔ Secure REST APIs
+✔ Role-Based Access Control (RBAC)
+✔ SQL Injection Prevention
+✔ XSS Prevention
+✔ Secure Session Management
+✔ Payment Gateway Security
+✔ API Integration & Optimization
 
 ---
 
-## 👨‍🏫 Technical Trainer
+# 🚀 Featured Projects
 
-Delivering Industry-Oriented, Project-Based Learning in:
-- C Programming  
-- Python Programming  
-- Data Science & Machine Learning  
-- Applied Artificial Intelligence  
+## 🔍 Deepfake Detection System
 
-🎯 Hands-on Projects • Real Industry Standards • Job-Ready Skills  
+### Tech Stack
+
+`Django • Python • Machine Learning • FFmpeg • REST APIs`
+
+### Features
+
+* Deepfake video & audio detection using Xception-based deep learning models
+* Video upload & URL-based analysis
+* Frame-wise processing & audio extraction
+* Real-time confidence score generation
+* Backend workflows for handling large media inputs
+* Transitioning into API-driven React architecture
+
+🔗 GitHub:
+👉 [https://github.com/Sai2507](https://github.com/Sai2507)
 
 ---
 
-## 🏆 Leadership & Innovation
-- Research & Development Cell Member  
-- Smart India Hackathon (SIH) Participant  
-- Institution’s Innovation Council (IIC) – Student Coordinator  
+# 💳 Payment Gateway Integration
+
+Integrated and worked with:
+
+* Razorpay
+* Stripe
+* Custom Bank APIs
+
+### Experience Includes
+
+✔ Secure transaction handling
+✔ Error handling & reconciliation
+✔ Payment logging systems
+✔ Tokenized workflows
+✔ Backend payment processing
 
 ---
 
-## 📊 GitHub Analytics
+# 🏢 Enterprise & ERP Systems
+
+Built modules and systems including:
+
+✔ Employee Management
+✔ Payroll Systems
+✔ Leave Management
+✔ Student Verification Systems
+✔ Admin Dashboards
+✔ Workflow Automation Platforms
+✔ Institutional & Vendor Management Systems
+
+---
+
+# ☁️ Deployment & DevOps
+
+* Git & GitHub Workflow
+* Production Deployment
+* AWS EC2 & S3
+* Apache Configuration
+* Server Setup & Hosting
+* Performance Optimization
+
+---
+
+# 👨‍🏫 Technical Trainer Experience
+
+Previously worked as a **Technical Trainer** at Oceanapps Technologies.
+
+Delivered practical training in:
+
+* C Programming
+* Python
+* MERN Stack
+* Data Science
+* Artificial Intelligence
+* Git & GitHub
+* Responsive Web Design
+
+🎯 Focused on:
+
+* Hands-on projects
+* Real-world problem solving
+* Deployment practices
+* Industry-level development standards
+
+---
+
+# 📜 Certifications
+
+✔ IBM Certified Front-End Developer
+✔ Cloud Engineering & DevOps – Datavalley
+✔ MATLAB Onramp – MathWorks
+✔ Machine Learning Onramp – MathWorks
+✔ Data Structures & Algorithms – Great Learning
+✔ Full Stack Developer Internship – Bharat Intern
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai2507&theme=tokyonight" />
@@ -115,33 +198,61 @@ Delivering Industry-Oriented, Project-Based Learning in:
 
 ---
 
-## 📈 Most Used Technologies
+# 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-navy-three-90.vercel.app/api/top-langs/?username=Sai2507&layout=compact&theme=tokyonight&cache_seconds=86400&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai2507&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-📧 sairajeev2002@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/sai-rajeev-pedadi-jun  
+# 🌱 Currently Exploring
+
+* Advanced System Design
+* Cloud-Native Architecture
+* AI Integration in Enterprise Apps
+* Scalable API Systems
+* SaaS Product Development
+* React + Django Enterprise Architecture
 
 ---
 
-## 💡 Professional Statement
+# 🏆 Leadership & Innovation
+
+* Smart India Hackathon (SIH) Participant
+* Research & Development Cell Member
+* Institution’s Innovation Council (IIC) – Student Coordinator
+
+---
+
+# 🌐 Connect With Me
+
+📧 **Email:**
+[sairajeev2002@gmail.com](mailto:sairajeev2002@gmail.com)
+
+💼 **LinkedIn:**
+[https://www.linkedin.com/in/sai-rajeev-pedadi-jun](https://www.linkedin.com/in/sai-rajeev-pedadi-jun)
+
+🐙 **GitHub:**
+[https://github.com/Sai2507](https://github.com/Sai2507)
+
+---
+
+# 💡 Professional Philosophy
+
+> **"Build Secure. Scale Smart. Ship Fast."**
 
 I am passionate about combining:
 
-✔ Enterprise Software Development  
-✔ Cloud Infrastructure  
-✔ Payment Security Standards  
-✔ ERP System Architecture  
-✔ API-Driven Application Development  
-✔ Technical Mentorship  
+✔ Full Stack Engineering
+✔ Secure Backend Systems
+✔ Cloud Infrastructure
+✔ AI & Automation
+✔ API-Driven Development
+✔ Technical Mentorship
 
-to build systems that are secure, scalable, and impactful.
+to create scalable and impactful software solutions.
 
 ---
 
-⭐ "Architecture First. Security Always. Scalability by Design."
+⭐ *Focused on building real-world applications with strong architecture, clean design, and production-ready performance.*
